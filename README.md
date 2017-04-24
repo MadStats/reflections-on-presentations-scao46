@@ -63,6 +63,45 @@ Comparison between different kinds of regression
 What were aspects of the presentations for which you had concerns or questions:
 
 
+Title of presentation:Gaming
 
+What were aspects of the presentation that you liked:
+
+What were aspects of the presentations for which you had concerns or questions: Can you state more specificly about your model?
+
+
+Title of presentation:H1B
+
+What were aspects of the presentation that you liked: Interesting data!
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+Title of presentation:Traffic
+
+What were aspects of the presentation that you liked: 
+
+What were aspects of the presentations for which you had concerns or questions: 
+
+
+Title of presentation:songs
+
+What were aspects of the presentation that you liked: Interesting data and interesting topic!
+
+What were aspects of the presentations for which you had concerns or questions: Too long presentation.
+
+
+Title of presentation:NBA
+
+What were aspects of the presentation that you liked: Good visualization. Cool data.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+Title of presentation:Terrorism
+
+What were aspects of the presentation that you liked: Good figures
+
+What were aspects of the presentations for which you had concerns or questions: Where does the definitions come from
 
 
